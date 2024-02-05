@@ -12,8 +12,8 @@ function generateNavBar() {
     /* - Elements of Navigation bar  (e = Element, edc = dropdown content, dm = dropdown menu)*/
     var b = document.getElementsByTagName("body")[0];
     var h = document.getElementsByTagName('head')[0];
-    var e1 = '<li class="navigation-element"><a href="index.html">test 1</a></li>';
-    var e2 = '<li class="navigation-element"><a href="index.html">link 1</a></li>';
+    var e1 = '<li class="navigation-element"><a href="index.html">test 2</a></li>';
+    var e2 = '<li class="navigation-element"><a href="Utah-HPV-vaccination-report,-june-2022.html" target="_blank">Vaccine Report</a></li>';
     var edc1 = '<a href="index.html">link 1</a>'; 
     var edc2 = '<a href="index.html">link 2</a>'; 
     var edc3 = '<a href="index.html">link 3</a>';
